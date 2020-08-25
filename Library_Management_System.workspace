@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Library_Management_System" Database="" Version="10.0.0">
+  <Project Name="LMS" Path="LMS/LMS.project" Active="Yes"/>
+  <Project Name="prrr" Path="prrr/prrr.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="LMS" ConfigName="Debug"/>
+      <Project Name="prrr" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="LMS" ConfigName="Release"/>
+      <Project Name="prrr" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
